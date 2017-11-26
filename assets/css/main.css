@@ -1,0 +1,107 @@
+/*primera section titulo*/
+#lovePanda, #lovePanda2, #pandaLove3{
+  background-color: #f78e69;  
+}
+.titulo{
+  text-align: right;
+  color: #FFF;
+}
+.titulo h1{
+  font-size: 250%;
+  margin-right: 4%;
+}
+.titulo p{
+  margin-right: 4%;
+}
+.imgUno{
+  background-image: url(../images/uno.jpg);
+  background-size: cover;  
+  height: 630px;
+  margin-top: 2%; 
+  margin-bottom: 2%;
+}
+img{
+  width: 100%;
+}
+/*segunda section descripcion*/
+#descripcion, #pictures{
+  background: #abe188;
+}
+.texto{
+  background-color: #f78e69;  
+  display: inline-block;
+  margin: 3%; 
+  width: 40%;
+  color:  #fff;
+}
+.texto h2{
+  text-align: center;
+  padding: 2%; 
+}
+.texto p{
+  text-align: justify; 
+  padding: 2%; 
+}
+.txt{
+  text-align: center;
+}
+
+.imgDos{
+  background-image: url(../images/dos.jpg);
+  background-size: cover;  
+  height: 730px;
+  margin-top: 2%; 
+  margin-bottom: 2%;
+}
+
+.pandaFour{
+  margin-left: 16%;
+  margin-right: 16%;
+}
+.subtituloPanda{
+  color: #FFF;
+  text-align: center;
+  margin: 6%;
+  font-size: 200%;
+}
+.col-3{
+  outline: 6px solid #FFF;
+  margin: 3%;
+  margin-bottom: 12%;
+  padding: 0;
+  width: 18%;
+}
+.imgA1{
+  background-image: url(../images/a1.jpg);
+  background-size: cover;  
+  height: 150px;
+}
+.imgA2{
+  background-image: url(../images/a2.jpg);
+  background-size: cover;  
+  height: 150px;
+}
+.imgA3{
+  background-image: url(../images/a3.jpg);
+  background-size: cover;  
+  height: 150px;
+}
+.imgA4{
+  background-image: url(../images/a4.jpg);
+  background-size: cover;  
+  height: 150px;
+}
+
+.imgTres{
+  background-image: url(../images/tres.jpg);
+  background-size: cover;  
+  height: 630px;
+  margin-top: 2%; 
+  margin-bottom: 2%;
+}
+.paragraphFooter{
+  color: #FFF;
+  text-align: right; 
+  margin-right: 2%;
+  margin-bottom: 1%;
+}
